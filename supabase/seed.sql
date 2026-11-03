@@ -1,0 +1,3 @@
+-- NEXORA usa una cuenta personal. El trigger de auth crea el espacio y su membresía
+-- cuando registras el primer usuario desde la pantalla de inicio de sesión.
+-- No se insertan usuarios ni datos de demostración en la base de datos.
